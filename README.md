@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Olá, eu sou o Brayan Fortes 👋</h1>
   <p align="center">
-    <strong>Software Developer | Back-End, Automações & Integrações com IA</strong>
+    <strong>Software Developer | Back-End (C# & Python) • Automações • Integrações com IA</strong>
   </p>
   <p align="center">
     <a href="https://www.linkedin.com/in/brayan-fortes-14b644303/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,10 +14,10 @@
 
 ### 🚀 Sobre Mim
 
-Desenvolvedor com foco no ecossistema **Back-End**, automação de processos e integração de soluções modernas de Inteligência Artificial.
+Desenvolvedor de Software com foco no ecossistema **Back-End**, automação de processos e integração de soluções modernas de Inteligência Artificial.
 
 - 🏛️ **Fundamentos Sólidos de Ciência da Computação:** Formação prática com **CS50x (Harvard University)**, aprofundando em algoritmos, estruturas de dados e eficiência computacional na resolução de problemas complexos.
-- ⚙️ **Engenharia de Software & Arquitetura:** Criação de APIs RESTful estruturadas, conteinerização completa com **Docker** e modelagem de bancos relacionais com **MySQL**.
+- ⚙️ **Engenharia de Software & Arquitetura:** Criação de APIs RESTful estruturadas em **C#** e **Python**, conteinerização completa com **Docker** e modelagem de bancos relacionais com **MySQL**.
 - 🔒 **Privacy by Design:** Desenvolvimento de aplicações com foco em segurança, testes automatizados e arquitetura de retenção zero em estrita conformidade com a **LGPD**.
 
 ---
@@ -32,6 +32,7 @@ Desenvolvedor com foco no ecossistema **Back-End**, automação de processos e i
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 #### Back-End, IA & Frameworks
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![Google Gemini AI](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
@@ -56,7 +57,7 @@ Desenvolvedor com foco no ecossistema **Back-End**, automação de processos e i
   - **Conteinerização Completa:** Arquitetura portátil e reproduzível com Docker e Docker Compose, utilizando segredos montados para máxima segurança de chaves de API.
   - **Extensão Manifest V3:** Injeção dinâmica de controles de transcrição diretamente no DOM do WhatsApp Web.
   - **Conformidade LGPD & Zero Retention:** Processamento de áudio estritamente volátil em memória (RAM), com destruição imediata de arquivos temporários, sem armazenamento de biometria vocal.
-  - **Garantia de Qualidade:** Pipeline com testes automatizados de segurança e conformidade de rotas (`test_app_security.py`).
+  - **Garantia de Qualidade:** Pipeline com testes automatizados de segurança e integridade de rotas (`test_app_security.py`).
 - **Stack:** `Python` • `Flask` • `Google Gemini API` • `Docker` • `JavaScript (Extension)` • `LGPD Compliance`
 
 ---
@@ -64,8 +65,8 @@ Desenvolvedor com foco no ecossistema **Back-End**, automação de processos e i
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrayanFortes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanFortes&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=BrayanFortes&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BrayanFortes&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" height="165" />
 </div>
 
 <br />

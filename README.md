@@ -16,7 +16,7 @@
 
 Desenvolvedor com foco no ecossistema **Back-End**, automação de processos e integração de soluções modernas de Inteligência Artificial.
 
-- 🏛️ **Fundamentos Sólidos de Ciência da Computação:** Formação prática com **CS50x (Harvard University)**, aprofundando em algoritmos, estruturas de dados, eficiência computacional e manipulação direta de memória em **C**.
+- 🏛️ **Fundamentos Sólidos de Ciência da Computação:** Formação prática com **CS50x (Harvard University)**, aprofundando em algoritmos, estruturas de dados e eficiência computacional na resolução de problemas complexos.
 - ⚙️ **Engenharia de Software & Arquitetura:** Criação de APIs RESTful estruturadas, conteinerização completa com **Docker** e modelagem de bancos relacionais com **MySQL**.
 - 🔒 **Privacy by Design:** Desenvolvimento de aplicações com foco em segurança, testes automatizados e arquitetura de retenção zero em estrita conformidade com a **LGPD**.
 
@@ -26,7 +26,6 @@ Desenvolvedor com foco no ecossistema **Back-End**, automação de processos e i
 
 #### Linguagens & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
